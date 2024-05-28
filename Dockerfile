@@ -1,2 +1,1 @@
-FROM node:20.12.2-slim
-
+FROM node:21.7.3-bookworm
